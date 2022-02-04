@@ -13,7 +13,8 @@
   
   <a name='description'></a>
   ## Description
-  This is an application to make developer's life easier when discribing their projects on a readme file. This will make the readme files look professional and provide a better project  understandig for developers and to other viewers.
+  This is an application to make developer's lives easier when discribing their projects on a readme file to describe their projects. 
+  <br>This application will make their readme.md files look professional and provide a better project understandig for the developers and to other viewers.
   <a name='usage'></a>
   ## Usage
   To use the application give your note a title and a item, click save and it will be saved on the left side of the page. You can also delete all notes that you wish but the test note.
