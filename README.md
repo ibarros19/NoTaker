@@ -36,7 +36,7 @@
   ## Deployed links
   
   Heroku:
-  https://dashboard.heroku.com/apps/notakerivi/deploy/github
+ https://notakerivi.herokuapp.com/ 
   
   Github repository:
  https://github.com/ibarros19/NoTaker
