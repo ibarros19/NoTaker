@@ -32,3 +32,15 @@
   <a name='questions'></a>
   ## Questions
   If you have any further questions, please feel free to contact me on GitHub at [ibarros19](https://github.com/ibarros19) or by email at [ivibarros19@gmail.com](ivibarros19@gmail.com).
+  
+  ## Deployed links
+  
+  Heroku:
+  https://dashboard.heroku.com/apps/notakerivi/deploy/github
+  
+  Github repository:
+ https://github.com/ibarros19/NoTaker
+ 
+  ## Screenshot
+  <img src="1.png" target="blank" width=400px>
+  
